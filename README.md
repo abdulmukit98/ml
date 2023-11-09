@@ -50,3 +50,21 @@ in command line
     ## License
 
 ````
+
+## Documentation
+comment in code like below
+````
+def hello():
+    """
+    This function print a hello message from file 2
+
+    Args:
+    No arguments
+
+    Returns:
+    Returns void
+    """
+    print("Hello from file 2")
+
+````
+
