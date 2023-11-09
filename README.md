@@ -27,8 +27,8 @@ in command line
 
 ### Makefile
 Help in code automation <br>
-![image](https://github.com/abdulmukit98/ml/assets/56398175/9a5f3984-b2cf-4063-ac29-8929fe9beaaf)
-
+if make command not work 
+install cmake
 ````
 install:
     pip install -r requirements.txt
