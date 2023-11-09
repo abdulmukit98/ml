@@ -10,3 +10,17 @@ create venv
 
 ### create license file
 from https://opensource.org/license/mit/
+
+### requirements.txt
+
+````
+numpy
+scipy
+gradeio
+sphinx
+````
+
+in command line 
+````
+    pip install -r requiremnts.txt
+````
