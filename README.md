@@ -73,3 +73,8 @@ def hello():
     pip install sphinx
     pip install sphinx-rtd-theme
 ````
+
+**In docs folder**
+````
+    sphinx-quickstart
+````
