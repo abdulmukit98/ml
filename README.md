@@ -24,3 +24,16 @@ in command line
 ````
     pip install -r requiremnts.txt
 ````
+
+### Makefile
+Help in code automation
+
+````
+install:
+    pip install -r requirements.txt
+````
+
+in commandline 
+````
+make install
+````
