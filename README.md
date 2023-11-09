@@ -36,3 +36,17 @@ install:
 in command line 
     make install
 ````
+
+### README.md
+
+````
+    A short description
+    ## description
+        comprehensive description
+    ## Installation
+
+    ## Contributers
+
+    ## License
+
+````
