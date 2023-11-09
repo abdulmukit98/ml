@@ -68,3 +68,8 @@ def hello():
 
 ````
 
+**install package**
+````
+    pip install sphinx
+    pip install sphinx-rtd-theme
+````
