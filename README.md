@@ -31,9 +31,7 @@ Help in code automation
 ````
 install:
     pip install -r requirements.txt
-````
 
-in commandline 
-````
-make install
+in command line 
+    make install
 ````
